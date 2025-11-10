@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasedmaker/)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edmaker89)  [![E-mail](https://img.shields.io/badge/Email-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmaker@gmail.com)
 
 ---
-## 🧠 Tecnologias — resumo
+## 🧠 Tecnologias
 
 Sou um desenvolvedor Full Stack com ênfase em back-end Python e aplicações front-end com React. Trabalho com desenvolvimento mobile multiplataforma (React Native) e tenho forte prática em colocar aplicações em produção usando containers e VPS. Abaixo um resumo prático das minhas stacks preferidas e onde atuo com mais frequência.
 
@@ -26,7 +26,7 @@ Sou um desenvolvedor Full Stack com ênfase em back-end Python e aplicações fr
 - **HTML / CSS** — construção de interfaces responsivas; uso **TailwindCSS** e **BulmaCSS** para acelerar layout e design.  
 - **Banco de dados** — experiência com **MariaDB/MySQL, PostregSQL, MongoDB**, modelagem relacional, otimização de queries e backups automatizados.
 
-### Infraestrutura & DevOps (prática e responsabilidades)
+### Infraestrutura & DevOps
 - **Containers e orquestração:** Docker para empacotamento; **Docker Swarm** para orquestração leve em ambientes de produção enxutos; planejamento para migração/adoção de **Kubernetes** quando necessário. **Portainer** <3 
 - **Proxy / TLS / Ingress:** Traefik (favorecido pela integração automática de certificados e rotas dinâmicas) e **NGINX** como reverse-proxy quando preciso de controle fino.  
 - **VPS e deploys:** construção e manutenção de servidores VPS (configurações, deploys, rotinas de backup e scripts de automação).  
