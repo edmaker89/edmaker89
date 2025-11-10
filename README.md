@@ -1,7 +1,7 @@
 # 👋 Olá, Eu sou o Douglas!
 
 💰 Um paulista morando no Interior "do" Goiás! <br>
-🎓 Analise e Desenvolvimento de Sistemas
+🎓 Analise e Desenvolvimento de Sistemas <br>
 🎓 Pós-graduado em **Engenharia de Software** pela Faculdade Metropolitana e **Arquitetura de Sistemas da Informação** pela CENES <br>
 💻 **Desenvolvedor Full Stack** — foco em **Python**, **React** e **React Native**  
 🏢 Atualmente: **Analista de Sistemas e Aplicações** em [SSA Alimentos S/A](https://www.linkedin.com/company/saosalvadoralimentos/posts/?feedView=all)  
