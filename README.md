@@ -1,81 +1,97 @@
-# 👋 Olá, Eu sou o Douglas!
+<h1 align="center">Douglas Silva</h1>
 
-💰 Um paulista morando no Interior "do" Goiás! <br>
-🎓 Analise e Desenvolvimento de Sistemas <br>
-🎓 Pós-graduado em **Engenharia de Software** pela Faculdade Metropolitana e **Arquitetura de Sistemas da Informação** pela CENES <br>
-💻 **Desenvolvedor Full Stack** — foco em **Python**, **React** e **React Native**  
-🏢 Atualmente: **Analista de Sistemas e Aplicações** em [SSA Alimentos S/A](https://www.linkedin.com/company/saosalvadoralimentos/posts/?feedView=all)  
-🚀 Entusiasta de containers, infraestrutura e orquestração (Docker Swarm → Kubernetes)  
-🌎 [edmaker.dev.br](https://edmaker.dev.br)  
-📍 Itaberaí, GO, Brasil
+<p align="center">
+  <strong>Systems &amp; Applications Analyst</strong><br>
+  Automation · Integration · AI-enabled Operations · Platform Engineering
+</p>
 
----
-## 🌐 Contato
+<p align="center">
+  <em>I work where application operations, software engineering, automation and AI meet.</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasedmaker/)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edmaker89)  [![E-mail](https://img.shields.io/badge/Email-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmaker@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglasedmaker/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/edmaker89"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://edmaker.dev.br"><img alt="Website" src="https://img.shields.io/badge/Website-334155?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:edmaker@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
----
-## 🧠 Tecnologias
+## Atuação atual
 
-Sou um desenvolvedor Full Stack com ênfase em back-end Python e aplicações front-end com React. Trabalho com desenvolvimento mobile multiplataforma (React Native) e tenho forte prática em colocar aplicações em produção usando containers e VPS. Abaixo um resumo prático das minhas stacks preferidas e onde atuo com mais frequência.
+Atuo como **Analista de Sistemas e Aplicações** na [SSA Alimentos](https://www.linkedin.com/company/saosalvadoralimentos/), em **Application Management Services (AMS N2)**. Minha rotina envolve suporte especializado a aplicações corporativas e integrações, análise de incidentes, troubleshooting, operação e melhoria contínua.
 
-### Linguagens & frameworks (habilidade prática)
-- **Python** — desenvolvimento de APIs e serviços (Flask, FastAPI, Django). Uso Python para API REST, ETL leve, automações, aplicações fullstacks, utilitarios e scripts de infra.  
-- **JavaScript / TypeScript** — aplicações web com **React**, **Next.js** (front-end moderno, SSR/SSG) e **React Native** para mobile.  
-- **Flutter** — conhecimento para projetos móveis quando aplicável.  
-- **HTML / CSS** — construção de interfaces responsivas; uso **TailwindCSS** e **BulmaCSS** para acelerar layout e design.  
-- **Banco de dados** — experiência com **MariaDB/MySQL, PostregSQL, MongoDB**, modelagem relacional, otimização de queries e backups automatizados.
+Minha trajetória parte da operação real e do desenvolvimento de software para o desenho de soluções: compreender problemas e processos, automatizar fluxos, integrar sistemas e aplicar IA com responsabilidade. Hoje, aprofundo minha atuação em **Automation & Integration Engineering**, **AI-enabled IT Operations** e **Platform Engineering**, sem perder o repertório full stack construído ao longo da carreira.
 
-### Infraestrutura & DevOps
-- **Containers e orquestração:** Docker para empacotamento; **Docker Swarm** para orquestração leve em ambientes de produção enxutos; planejamento para migração/adoção de **Kubernetes** quando necessário. **Portainer** <3 
-- **Proxy / TLS / Ingress:** Traefik (favorecido pela integração automática de certificados e rotas dinâmicas) e **NGINX** como reverse-proxy quando preciso de controle fino.  
-- **VPS e deploys:** construção e manutenção de servidores VPS (configurações, deploys, rotinas de backup e scripts de automação).  
-- **Backups & recuperação:** rotinas automatizadas de backups (local e remoto — S3/GCS/drive / ``rclone``) , snapshots de VMs e estratégia para recuperação rápida (uso de snapshots após criação de VMs).  
-- **Observabilidade & logs:** centralização de logs, métricas básicas e alertas para serviços críticos (próximos passos: Aprender e implementar de forma pratica Prometheus/Grafana + ELK/EFK quando escalar).  
-- **CI/CD:** pipelines automatizados (build → test → image → deploy), imagens Docker versionadas e tags semânticas para releases previsíveis. Usando Github actions (proximos passo: Jenkins e ArgoCD) 
-- **Security & hardening:** práticas de segurança em servidores, variáveis de ambiente secretas, gestão de certificados TLS e minimização de superfícies de ataque em serviços expostos.
-- **Próximos passos:** estudos de virutalização com VMWARE e Proxmox. Criar um homelab.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Engenharia de Software** e **Arquitetura de Sistemas da Informação**.
 
----
-## 🔧 Ferramentas e preferências
+## Foco técnico
 
-**Frameworks preferidos:**  
-React, React Native, Flask, FastAPI, Django, Flutter, TailwindCSS, BulmaCSS, Next.js.  
+| Área | Capacidades e tecnologias |
+| --- | --- |
+| **Application Operations** | AMS N2, incident analysis, troubleshooting, integrações, melhoria operacional e automação de processos |
+| **Automation & Integration** | n8n self-hosted, APIs REST, webhooks, subworkflows, tratamento de erros, retries e integrações entre sistemas |
+| **AI Engineering** | IA aplicada, RAG, agentes, knowledge retrieval, pgvector e desenho de fluxos assistidos por LLMs |
+| **Software Engineering** | Python (Flask, FastAPI, Django), JavaScript/TypeScript, React, Next.js, React Native e Flutter |
+| **Data & Messaging** | PostgreSQL, MariaDB/MySQL, MongoDB, Redis, MinIO, SQS/SNS e pipelines de dados |
+| **Platform Engineering** | Linux, Docker, Docker Swarm, K3s/Kubernetes, Traefik, NGINX, Proxmox e homelab |
+| **DevOps & Observability** | GitHub Actions, Prometheus, Grafana, backup/restore, disaster recovery e operação de serviços |
 
-**Infra & orquestração:**  
-Docker, Docker Swarm, Traefik, NGINX, VPS (Linux), com plano de evolução para Kubernetes quando necessário.
+## n8n Foundations
 
----
-## 🧩 Projetos Relevantes — Projeto Itaberaí
+Trilha oficial concluída em **20 de setembro de 2026**. As credenciais abaixo são públicas e verificáveis.
 
-### 🌸 Aplicativo Rosa  
-Aplicativo mobile em **Dart/Flutter** para **Agentes Comunitários de Saúde (ACS)** — permite o cadastro de pacientes e o preenchimento anual de formulários (Hábitos de Vida, Anamnese e Exame Físico). Quando uma alteração mamária é detectada, o caso é encaminhado automaticamente para o RosaWatch.  
-**Stack:** Dart/Flutter, Flask (API), MariaDB, Docker, processos de backup e deploy em VPS.
-[App Rosa](https://rosawatch.rebracam.org.br/download)
+<p align="center">
+  <a href="https://badges.n8n.io/031d7143-b69d-45aa-86cd-8830d74600e3#acc.RXzh4AL5"><img alt="n8n — Essentials: Your First Workflows" src="https://img.shields.io/badge/n8n%20Foundations-Essentials%3A%20Your%20First%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"></a><br>
+  <a href="https://badges.n8n.io/5700d6c5-c98c-4def-86b5-7b0d6956f086#acc.a5MYw03l"><img alt="n8n — Integrations: APIs &amp; Connected Workflows" src="https://img.shields.io/badge/n8n%20Foundations-Integrations%3A%20APIs%20%26%20Connected%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"></a><br>
+  <a href="https://badges.n8n.io/06d35c7d-1a26-48f2-9cef-a2d7f07e88a8#acc.CO9uQTn7"><img alt="n8n — In Practice: AI, Testing &amp; Best Practices" src="https://img.shields.io/badge/n8n%20Foundations-In%20Practice%3A%20AI%2C%20Testing%20%26%20Best%20Practices-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"></a>
+</p>
 
-### 💗 RosaWatch  
-Plataforma web que dá suporte ao Aplicativo Rosa. Profissionais de saúde usam o RosaWatch para visualizar, triar e acompanhar casos de rastreamento precoce do câncer de mama para apoiar as ações do **PROJETO ITABERAI**. Projeto feito em parceria com **Ministério Público**, **UFG**, **HC** e **CORA** — parte do **Projeto Itaberaí**.  
-**Stack:** Flask, BulmaCSS, MariaDB, Docker Swarm, Traefik/NGINX, e relatórios.
-[Rosawatch](https://rosawatch.rebracam.org.br/)
+As credenciais são o ponto de partida. O objetivo é sustentar a especialização em n8n com projetos reproduzíveis, decisões de arquitetura documentadas e evidências de confiabilidade em cenários próximos aos de produção.
 
-### ORAL CONFERENCE
-- [Pink APP: Strategy for resolving breast cancer screening actions according to the ITABERAÍ project](https://www.mastology.org/wp-content/uploads/2023/12/MAS-v33Suppl1_04.pdf)
-- [Preliminary results of breast cancer screening based on physical breast examination by community health agent (ACS) – Projeto ITABERAÍ](https://www.mastology.org/wp-content/uploads/2023/12/MAS-v33Suppl1_07.pdf)
-- [Adherence of community health agents (ACS) to a breast cancer screening program – ITABERAÍ project](https://www.mastology.org/wp-content/uploads/2023/12/MAS-v33Suppl1_17.pdf)
----
+## Em construção
 
-## 📊 Estatísticas GitHub
+Estou desenvolvendo um portfólio prático de **Automation & Integration Engineering**. Os laboratórios serão publicados progressivamente, cobrindo nove domínios: data flow, APIs, workflow engineering, reliability, persistência, plataforma, segurança, observabilidade e AI automation.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmaker89&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&layout=compact&theme=tokyonight)
+| Frente | Projetos planejados |
+| --- | --- |
+| **Integração & confiabilidade** | API Integration Lab, Reliable Webhook Gateway, System Synchronization Engine e n8n Chaos & Reliability Lab |
+| **Dados & plataforma** | ETL & Data Pipeline, Document & File Automation e AutomationOps Platform |
+| **IA aplicada** | AI Service Desk Agent e Enterprise RAG Evaluation Lab |
+| **Extensibilidade** | Custom n8n Node |
 
----
+## Case em destaque · Projeto Itaberaí
 
-## 🚀 Roadmap pessoal / próximos passos
+Ecossistema de tecnologia para apoiar ações de rastreamento do câncer de mama. Minha atuação abrangeu **desenvolvimento, arquitetura, infraestrutura, integrações, relatórios e operação**.
 
-- Evoluir orquestração para **Kubernetes** de forma prática (migrar partes críticas primeiro).  
-- Implementar **observabilidade completa** (logs centralizados, métricas e alertas).  
-- Automatizar pipelines CI/CD com testes e estratégias de deploy seguras (blue/green e canary)
-- Implementar microsserviços e mensageria, filas
-- Implementar caches robustos
-- Escrever artigos técnicos e estudos de caso em [edmaker.dev.br](https://edmaker.dev.br) sobre a arquitetura do Projeto Itaberaí e a jornada de containers → orquestração.
+- **[Aplicativo Rosa](https://rosawatch.rebracam.org.br/download)** — aplicativo mobile para Agentes Comunitários de Saúde, desenvolvido com Flutter/Dart, API Flask, MariaDB e Docker.
+- **[RosaWatch](https://rosawatch.rebracam.org.br/)** — plataforma web para visualização, triagem e acompanhamento dos casos, com Python/Flask, MariaDB, Docker Swarm, Traefik/NGINX e geração de relatórios.
+
+### Contribuições científicas relacionadas
+
+- [Pink APP: Strategy for resolving breast cancer screening actions according to the ITABERAÍ project](https://mastology.org/journal/article/view/1533)
+- [Preliminary results of breast cancer screening based on physical breast examination by community health agent (ACS) – Projeto ITABERAÍ](https://mastology.org/journal/article/view/1536)
+- [Adherence of community health agents (ACS) to a breast cancer screening program – ITABERAÍ project](https://mastology.org/journal/article/view/1553)
+
+## Próximos passos
+
+- Consolidar o portfólio prático para especialização em **n8n**.
+- Evoluir agentes de IA para cenários próximos à produção, com avaliação, observabilidade e guardrails.
+- Aprofundar avaliação de RAG, retrieval e qualidade de respostas.
+- Expandir práticas de Kubernetes, Platform Engineering, SRE, GitOps e Infrastructure as Code.
+- Evoluir o homelab como ambiente de experimentação, backup, restore e disaster recovery.
+- Explorar integrações customizadas, MCP e padrões de sistemas distribuídos, eventos e confiabilidade.
+
+## GitHub em números
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edmaker89&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark_dimmed">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edmaker89&amp;show_icons=true&amp;hide_border=true&amp;theme=default">
+    <img height="165" alt="Estatísticas do GitHub de Douglas Silva" src="https://github-readme-stats.vercel.app/api?username=edmaker89&amp;show_icons=true&amp;hide_border=true&amp;theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark_dimmed">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&amp;layout=compact&amp;hide_border=true&amp;theme=default">
+    <img height="165" alt="Linguagens mais usadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&amp;layout=compact&amp;hide_border=true&amp;theme=default">
+  </picture>
+</p>
