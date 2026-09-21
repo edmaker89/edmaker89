@@ -85,13 +85,13 @@ Ecossistema de tecnologia para apoiar ações de rastreamento do câncer de mama
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edmaker89&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark_dimmed">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edmaker89&amp;show_icons=true&amp;hide_border=true&amp;theme=default">
-    <img height="165" alt="Estatísticas do GitHub de Douglas Silva" src="https://github-readme-stats.vercel.app/api?username=edmaker89&amp;show_icons=true&amp;hide_border=true&amp;theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmaker89&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmaker89&amp;theme=github">
+    <img height="165" alt="Estatísticas do GitHub de Douglas Silva" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmaker89&amp;theme=github">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark_dimmed">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&amp;layout=compact&amp;hide_border=true&amp;theme=default">
-    <img height="165" alt="Linguagens mais usadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmaker89&amp;layout=compact&amp;hide_border=true&amp;theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmaker89&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmaker89&amp;theme=github">
+    <img height="165" alt="Linguagens com mais commits nos repositórios públicos" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmaker89&amp;theme=github">
   </picture>
 </p>
