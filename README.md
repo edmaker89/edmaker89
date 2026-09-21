@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/douglasedmaker/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/edmaker89"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://edmaker.dev.br"><img alt="Website" src="https://img.shields.io/badge/Website-334155?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:edmaker@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -80,18 +79,3 @@ Ecossistema de tecnologia para apoiar ações de rastreamento do câncer de mama
 - Expandir práticas de Kubernetes, Platform Engineering, SRE, GitOps e Infrastructure as Code.
 - Evoluir o homelab como ambiente de experimentação, backup, restore e disaster recovery.
 - Explorar integrações customizadas, MCP e padrões de sistemas distribuídos, eventos e confiabilidade.
-
-## GitHub em números
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmaker89&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmaker89&amp;theme=github">
-    <img height="165" alt="Estatísticas do GitHub de Douglas Silva" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edmaker89&amp;theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmaker89&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmaker89&amp;theme=github">
-    <img height="165" alt="Linguagens com mais commits nos repositórios públicos" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edmaker89&amp;theme=github">
-  </picture>
-</p>
